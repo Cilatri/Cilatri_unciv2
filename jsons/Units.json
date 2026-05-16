@@ -8,9 +8,10 @@
 		"strength": 25,
 		"cost": 100,
 		"requiredTech": "Bronze Working",
-		"requiredResource": "Civil Service",
+		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions": ["[Survivalism I]"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 	}
 ]
