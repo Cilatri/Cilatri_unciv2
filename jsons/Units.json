@@ -3,14 +3,14 @@
 		"name": "千岩军",
 		"unitType": "Sword",
 		"uniqueTo": "璃月",
-		"replaces": "Spearman",
-		"movement": 2,
-		"strength": 15,
-		"cost": 500,
+		"replaces": "Pikeman",
+		"movement": 3,
+		"strength": 25,
+		"cost": 100,
 		"requiredTech": "Bronze Working",
 		"requiredResource": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions": ["[March]"],
+		"promotions": ["[Survivalism I]"],
 		"attackSound": "metalhit"
 	}
 ]
