@@ -10,7 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"requiredResource": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		
+		"promotions": ["[March]"],
 		"attackSound": "metalhit"
 	}
 ]
