@@ -2,8 +2,8 @@
 	{
 		"name": "璃月",
 		"leaderName": "凝光",
-		"adjective": ["Liyue's"],
-		"startBias": ["Hill"],
+		"adjective": ["璃月的"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
