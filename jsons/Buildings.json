@@ -19,10 +19,7 @@
 		"science":10,
 		"culture":10,
 		"happiness": 8,
-		"percentStatBonus": {"production": 50},
-		"percentStatBonus": {"gold": 100},
-		"percentStatBonus": {"science": 50},
-		"percentStatBonus": {"culture": 50},
+		"percentStatBonus": {"production": 50,"gold": 100,"science": 50",culture": 50},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>"],
 		"requiredTech": "Guilds"
