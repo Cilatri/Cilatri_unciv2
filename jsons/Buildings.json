@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "群玉阁",
-		"replaces": "Guilds",
+		"replaces": "National Treasury",
 		"uniqueTo": "璃月",
 		"cost": 150,
 		"production": 10
